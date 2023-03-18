@@ -1,0 +1,8 @@
+my name is pranjal tiwari.
+performing r+ mode
+
+
+now we are using append mode
+
+adding text in (pranjal.txt) file
+
